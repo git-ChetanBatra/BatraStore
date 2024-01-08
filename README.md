@@ -17,4 +17,4 @@ For ```payment integration``` using ```Stripe```
 
 **LIVE**
 
---> https://chauhan-store.netlify.app/
+--> https://batra-store.vercel.app/
